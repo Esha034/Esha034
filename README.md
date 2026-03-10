@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi, I'm Eshani Banik 👋
 
-<!--
-**Esha034/Esha034** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Computer Science (AI & ML) | Brainware University  
+📊 Data Analytics & AI/ML Enthusiast  
+📍 India  
 
-Here are some ideas to get you started:
+🔭 I’m currently working on data analytics and AI/ML projects involving real-world datasets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I am actively learning advanced machine learning techniques, AI, NLP, and deep learning while building scalable data applications.
+
+🤝 I’m looking for guidance on improving model deployment and building production-ready ML pipelines.
+
+💡 Ask me about Python, SQL, Data Analytics, Machine Learning, EDA, and dashboard development.
+
+💬 How to reach me:  
+LinkedIn → https://www.linkedin.com/in/eshanibanik/
+
+⚡ Fun fact: I enjoy turning complex datasets into meaningful insights and building intelligent systems from data.
+
+---
+
+# Technical Skills
+
+### Programming
+Python, SQL
+
+### Data Analytics
+Data Acquisition
+Data Cleaning  
+Data Transformation  
+Exploratory Data Analysis (EDA)  
+Feature Engineering
+
+### Libraries & Frameworks
+Pandas  
+NumPy  
+Matplotlib  
+Seaborn  
+Scikit-learn  
+TensorFlow  
+NLP
+
+### Databases
+PostgreSQL  
+MySQL
+
+### Visualization & Tools
+Power BI  
+Google Looker Studio  
+MS Excel  
+Streamlit  
+Jupyter Notebook  
+VS Code
+
+### Version Control
+Git  
+GitHub
+
+---
+
+# 📚 Research Publications
+
+Enhancing Customer Interactions in FinTech with NLP  
+IGI Global (2025)
+
+IoT Security and Privacy  
+IGI Global (2025)
+
+---
+
+⭐ I’m always interested in working on projects involving **Data Analytics and AI/ML**.
