@@ -23,8 +23,7 @@ LinkedIn → https://www.linkedin.com/in/eshanibanik/
 Python, SQL
 
 ### Data Analytics
-Data Acquisition
-
+Data Acquisition .
 Data Cleaning  
 Data Transformation  
 Exploratory Data Analysis (EDA)  
