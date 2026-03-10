@@ -1,9 +1,6 @@
 # Hi, I'm Eshani Banik 👋
 
-🎓 B.Tech in Computer Science (AI & ML)
-
-📊 Data Analytics & AI/ML Enthusiast  
-📍 Tripura, India  
+🎓  A Computer Science (AI & ML) undergraduate.
 
 🔭 I’m currently working on data analytics and AI/ML projects involving real-world datasets.
 
