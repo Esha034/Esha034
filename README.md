@@ -10,9 +10,6 @@
 
 💡 Ask me about Python, SQL, Data Analytics, Machine Learning, EDA, and dashboard development.
 
-💬 How to reach me:  
-LinkedIn → https://www.linkedin.com/in/eshanibanik/
-
 ⚡ Fun fact: I enjoy turning complex datasets into meaningful insights and building intelligent systems from data.
 
 ---
