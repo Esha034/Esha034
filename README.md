@@ -1,8 +1,8 @@
 # Hi, I'm Eshani Banik 👋
 
-🎓 B.Tech in Computer Science (AI & ML) | Brainware University  
+🎓 B.Tech in Computer Science (AI & ML)
 📊 Data Analytics & AI/ML Enthusiast  
-📍 India  
+📍 Tripura, India  
 
 🔭 I’m currently working on data analytics and AI/ML projects involving real-world datasets.
 
