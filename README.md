@@ -53,14 +53,4 @@ GitHub
 
 ---
 
-# 📚 Research Publications
-
-Enhancing Customer Interactions in FinTech with NLP  
-IGI Global (2025)
-
-IoT Security and Privacy  
-IGI Global (2025)
-
----
-
 ⭐ I’m always interested in working on projects involving **Data Analytics and AI/ML**.
