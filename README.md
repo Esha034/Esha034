@@ -148,17 +148,6 @@ A sports analytics project that transforms cricket data into an interactive dash
 - AI-Powered Applications and Intelligent Systems
 - Building, Testing, and Deploying Practical Solutions
 
-## 🎓 Education & Certifications
-
-**B.Tech in Computer Science and Engineering — AI/ML Specialization**  
-Brainware University, Barasat, West Bengal
-
-**Selected certifications and academic work**
-- NPTEL — Programming, Data Structures and Algorithms Using Python (Elite).
-- NIELIT Kolkata — Big Data & Data Science.
-- IBM — SQL and Relational Databases 101.
-- Research chapter contributions covering IoT Security & Privacy and NLP applications in FinTech.
-
 ## 📈 What I'm Working Toward
 
 I'm strengthening my foundations in programming, data structures and algorithms, SQL, statistics, and machine learning while building practical projects that demonstrate my ability to learn, analyze, develop, and deliver.
