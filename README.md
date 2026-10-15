@@ -1,99 +1,132 @@
-Hi, I'm Eshani Banik 👋
+Eshani Banik | Data Analytics • Data Science • AI/ML
 
-Computer Science Graduate | Data Analytics | Data Science | AI/ML
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:172554,50:1D4ED8,100:0891B2&height=180&section=header&text=Eshani%20Banik&fontSize=42&fontColor=FFFFFF&fontAlignY=42&desc=Turning%20Data%20Into%20Insights%20%7C%20Building%20Practical%20AI%20Solutions&descSize=14&descAlignY=65" width="100%" alt="Eshani Banik — Data Analytics, Data Science and AI/ML"/>
+</p><p align="center">
+  <a href="https://github.com/Esha034">
+    <img src="https://img.shields.io/badge/GitHub-Esha034-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/eshanibanik/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://smart-ai-resume-analyser.netlify.app/">
+    <img src="https://img.shields.io/badge/Live%20Project-Resulyze-0891B2?style=for-the-badge&logo=netlify" alt="Resulyze live demo"/>
+  </a>
+</p>👩‍💻 About Me
 
-I'm a Computer Science graduate specializing in Artificial Intelligence and Machine Learning, passionate about transforming data into actionable insights and building practical, AI-powered applications.
+I'm a Computer Science graduate from Brainware University, specializing in Artificial Intelligence and Machine Learning. I'm interested in using data to solve business problems and building intelligent applications that deliver practical value.
 
-I work with Python, SQL, data analysis, visualization, and machine learning to solve problems using real-world datasets. Through internships and hands-on projects, I've explored data preprocessing, exploratory data analysis, dashboard development, NLP, and deploying AI applications.
+My work spans data analytics, exploratory data analysis, dashboard development, machine learning, NLP, and AI-powered applications.
 
-- 🔍 Currently exploring: Data Analytics, Data Science, and entry-level AI/ML opportunities.
-- 📊 Working with: Python, SQL, Pandas, NumPy, Power BI, and machine learning.
-- 🤖 Building: Data-driven applications, NLP solutions, and AI-powered tools.
-- 🚀 Interested in: Data storytelling, predictive modeling, model deployment, and practical AI solutions.
-- 📚 Continuously learning: Advanced SQL, statistics, machine learning, DSA, and production-ready ML workflows.
+- 📊 Data Analytics: Transforming raw datasets into actionable insights.
+- 🤖 AI/ML: Developing practical machine learning and NLP applications.
+- 🛠️ Development: Building interactive applications and exploring model deployment.
+- 🎯 Career Focus: Entry-level Data Analyst, Data Science, and AI/ML opportunities.
+- 📚 Currently strengthening: SQL, statistics, DSA, machine learning, and production-oriented development.
 
-🛠️ Technical Skills
+🚀 Featured Projects
 
-Programming & Query Languages
+01 | Resulyze — AI-Powered Resume Analyzer
 
-- Python, SQL
+An AI-powered resume screening application that combines semantic similarity and keyword-based scoring to evaluate and rank candidate resumes.
 
-Data Analytics & Processing
+Key highlights
 
-- Pandas, NumPy, Excel
-- Data Cleaning, Data Transformation, Exploratory Data Analysis (EDA)
-- Statistical Analysis, Feature Engineering, Data Interpretation
+- Resume text extraction from PDF and DOCX files.
+- Semantic matching using Sentence Transformers and cosine similarity.
+- Weighted scoring to support candidate ranking.
+- Web application with a FastAPI backend and a separately deployed frontend.
 
-Data Visualization & Business Intelligence
+Tech: Python · FastAPI · Sentence Transformers · PyTorch · Docker
 
-- Power BI, Google Looker Studio
-- Matplotlib, Seaborn, Streamlit
-- Dashboard Development and Data Storytelling
+<p>
+  <a href="https://github.com/Esha034/AI-Powered-Resume-Screening-and-Candidate-Ranking-System-for-Recruiters"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github" alt="Source code"/></a>
+  <a href="https://smart-ai-resume-analyser.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-0891B2?style=for-the-badge&logo=netlify" alt="Live demo"/></a>
+</p>02 | AI Learning Buddy
 
-Machine Learning & AI
+An interactive learning application designed to help users explore topics through AI-generated explanations, examples, quizzes, and feedback.
 
-- Scikit-learn, TensorFlow, Keras
-- Machine Learning Fundamentals, Model Evaluation
-- Natural Language Processing (NLP), Deep Learning Fundamentals
-- Sentence Embeddings and Semantic Similarity
+Key highlights
 
-Databases & Development Tools
+- Topic-based learning sessions.
+- Interactive explanations and quizzes.
+- AI-powered educational content generation.
 
-- PostgreSQL, MySQL
-- FastAPI, Git, GitHub
-- Jupyter Notebook, VS Code
-- Docker, Hugging Face Spaces
+Tech: Python · Streamlit · Google Gemini API
 
-🌟 Featured Projects
+<p>
+  <a href="https://smart-learning-buddy.streamlit.app/"><img src="https://img.shields.io/badge/Live%20Application-2E8B57?style=for-the-badge&logo=streamlit" alt="Live application"/></a>
+</p>03 | OLA Ride Insights
 
-1. Resulyze — AI-Powered Resume Analyzer
+A data analytics project exploring ride-booking data to identify operational patterns and business insights through SQL analysis and dashboards.
 
-An AI-powered application that analyzes resumes, evaluates candidate relevance using semantic similarity and keyword-based scoring, and ranks candidates to support resume screening.
+Tech: PostgreSQL · Python · SQLAlchemy · Power BI · Streamlit
 
-Tech stack: Python, FastAPI, Sentence Transformers, PyTorch, Docker
+04 | Cricket World Cup Dashboard
 
-🔗 "GitHub Repository" (https://github.com/Esha034/AI-Powered-Resume-Screening-and-Candidate-Ranking-System-for-Recruiters) · "Live Application" (https://smart-ai-resume-analyser.netlify.app/)
+A cricket analytics project that uses web-scraped data and interactive visualizations to explore tournament statistics and player performance.
 
-2. AI Learning Buddy
+Tech: Python · Web Scraping · Google Looker Studio
 
-An interactive AI-powered learning application that generates topic explanations, examples, quizzes, and learning feedback to support personalized learning.
+🔎 "Explore all projects on GitHub" (https://github.com/Esha034?tab=repositories)
 
-Tech stack: Python, Streamlit, Google Gemini API
+🧰 Technical Skills
 
-🔗 "Live Application" (https://smart-learning-buddy.streamlit.app/)
+Programming & Databases
 
-3. OLA Ride Insights Dashboard
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>Analytics & Visualization
 
-A data analytics project exploring ride-booking data to identify trends, operational patterns, and business insights using SQL, visualization, and interactive dashboards.
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=222222" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white" alt="Looker Studio"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+</p>Machine Learning & Development
 
-Tech stack: PostgreSQL, Python, SQLAlchemy, Power BI, Streamlit
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</p>Core Analytics Skills
 
-🔗 Explore my "GitHub repositories" (https://github.com/Esha034?tab=repositories).
+"Data Cleaning" · "EDA" · "Data Transformation" · "Statistical Analysis" · "Feature Engineering" · "Data Visualization" · "Model Evaluation" · "NLP"
 
-4. Cricket World Cup Dashboard
+💼 Experience
 
-A cricket analytics project that uses scraped data and interactive visualizations to explore tournament statistics and player performance.
+Data Analytics Intern — Labmentix
 
-Tech stack: Python, Web Scraping, Google Looker Studio
+- Worked on data cleaning, preprocessing, exploratory data analysis, and feature engineering.
+- Developed visualizations and dashboards to communicate data-driven findings.
 
-🔗 "GitHub Repository" (https://github.com/Esha034/Cricket-World-Cup-Dashboard)
+Intel Unnati — Industrial Training
 
-💼 Experience & Learning
-
-- Data Analytics Intern — Labmentix: Worked on data preparation, exploratory analysis, feature engineering, and dashboard development.
-- Intel Unnati Industrial Training: Gained hands-on exposure to machine learning and deep learning through Python-based project work.
-- Continuous Learning: Strengthening my foundations in DSA, SQL, statistics, machine learning, and software development.
+- Gained practical exposure to Python-based machine learning and deep learning through project work.
 
 🎓 Education
 
-B.Tech in Computer Science and Engineering — AI/ML Specialization
+B.Tech — Computer Science and Engineering (AI/ML Specialization)
 Brainware University, Barasat, West Bengal
 
 🤝 Let's Connect
 
-I'm open to connecting with professionals, collaborating on meaningful projects, and exploring opportunities in Data Analytics, Data Science, and AI/ML.
+I'm interested in collaborating on data-driven projects, learning from the developer community, and exploring opportunities in analytics, data science, and applied AI/ML.
 
-- 💻 "GitHub" (https://github.com/Esha034)
-- 💼 "LinkedIn" (https://linkedin.com/in/eshanibanik/)
-
-⭐ I believe in learning by building, using data to solve real problems, and continuously improving through practical experience.
+<p align="center">
+  <a href="https://github.com/Esha034">GitHub</a> •
+  <a href="https://linkedin.com/in/eshanibanik/">LinkedIn</a>
+</p><p align="center">
+  <i>Building with curiosity. Learning through projects. Solving problems with data.</i>
+</p>
