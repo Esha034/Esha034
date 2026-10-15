@@ -23,12 +23,6 @@ I'm a Computer Science and Engineering graduate from **Brainware University**, s
 
 My approach combines programming fundamentals, analytical thinking, and applied AI to solve real-world problems through projects that go beyond experimentation.
 
-- 💻 **Software Development:** Python, SQL, problem-solving, data structures and algorithms(DSA), and application development.
-- 📊 **Data Analytics & Data Science:** Data cleaning, exploratory data analysis (EDA), statistical analysis, visualization, and dashboard development.
-- 🤖 **AI/ML:** Machine learning, NLP, semantic similarity, model evaluation, and AI-powered applications.
-- 🛠️ **Building & Deployment:** APIs, interactive applications, Git/GitHub, Docker, and deployment of frontend and backend services.
-- 🎯 **Career Focus:** Entry-level opportunities in Software Development, Data Analytics, Data Science, and AI/ML Engineering.
-
 I enjoy learning by building, understanding the logic behind solutions, and turning technical concepts into useful applications.
 
 ## 🚀 Featured Projects
